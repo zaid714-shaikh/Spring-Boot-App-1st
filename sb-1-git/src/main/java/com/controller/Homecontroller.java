@@ -12,10 +12,13 @@ public class Homecontroller {
 	}
 
 
+
        // Rani - Feature-101
        public void getRaniMsg()
        {
      	//hi rani changes is here.
        }
+
+		//hi Raju Change
 
 }
