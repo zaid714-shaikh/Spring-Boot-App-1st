@@ -6,10 +6,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Homecontroller {
 
+          	//hi iam raju
+         //hi Iam RAni
+
+
 	@RequestMapping("/")
 	public String getMsg() {
 		return "Welcome To Exponent";
 	}
+
 
 
        // Rani - Feature-101
@@ -17,5 +22,7 @@ public class Homecontroller {
        {
      	//hi rani changes is here.
        }
+
+		//hi Raju Change
 
 }
