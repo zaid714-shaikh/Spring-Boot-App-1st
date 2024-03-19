@@ -10,4 +10,12 @@ public class Homecontroller {
 	public String getMsg() {
 		return "Welcome To Exponent";
 	}
+
+
+       // Rani - Feature-101
+       public void getRaniMsg()
+       {
+     
+       }
+
 }
